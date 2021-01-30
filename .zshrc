@@ -17,3 +17,4 @@ antigen theme refined
 
 # Tell Antigen that you're done.
 antigen apply
+source .profile
